@@ -1,6 +1,6 @@
 # FSP COMPUTER LAB CLASS-B.TECH-4TH-SEMESTER
 
-On the 4th Semester FSP Class we are Doing Python this Repo Contains all the Programs Done in Class Code along with their Output Snapshot
+In the 4th-semester FSP Class, we are learning Python. This Repo Contains all the Programs Done in Class, Code, along with their Output Snapshot
 <ul>
 
 <li>
